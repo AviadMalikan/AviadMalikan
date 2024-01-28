@@ -1,4 +1,14 @@
-### Hi there 👋
+# Aviad Malikan 🏄🏽‍♂️
+**`FullStack developer 💻👨🏽‍💻`**
+
+<p align="center">
+Enthusiastic and results-driven Full Stack Developer designing and implementing innovative software solutions. Adept at both front-end and back-end development, skilled in multiple programming languages and frameworks. 💻🌐
+  
+<p align="center">
+  <img src="https://media1.tenor.com/m/h6H17h3K-KEAAAAC/family-guy.gif" alt=""/>
+</p>
+
+</p>
 
 <!--
 **AviadMalikan/AviadMalikan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
